@@ -5,5 +5,14 @@
  */
 
 module.exports = {
-  plugins: ['gatsby-plugin-postcss']
+  plugins: [
+    'gatsby-plugin-postcss',
+    'gatsby-transformer-filesystem',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        
+      }
+    }
+  ]
 }
