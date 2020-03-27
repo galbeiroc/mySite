@@ -1,3 +1,10 @@
-body {
-    background: red;
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/*Directive apply*/
+.btn {
+    @apply bg-purple-600 text-white font-bold rounded border-purple-400 py-2 px-4 border-b-4;
 }
