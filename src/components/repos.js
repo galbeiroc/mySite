@@ -50,7 +50,7 @@ export default () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ver más en Githuh{reposCount}
+          Ver más en Github ({reposCount})
         </a>
       </div>
     </div>
