@@ -1,12 +1,14 @@
 import React from "react"
 import Header from "../components/header"
 import Repos from "../components/repos"
-import Courses from '../components/courses'
+import MyCourses from '../components/myCourses'
+import Medium from "../components/medium"
 
 export default () => (
   <div>
     <Header />
     <Repos />
-    <Courses />
+    <MyCourses />
+    <Medium />
   </div>
 )
