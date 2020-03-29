@@ -1,0 +1,15 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educacioón en internet.",
+    "items": [
+        {
+            "name": "Curso de Python",
+            "url": "https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/"
+        },
+        {
+            "name": "Curso FullStack",
+            "url": "https://www.eduonix.com/dashboard"
+        }
+    ]
+}

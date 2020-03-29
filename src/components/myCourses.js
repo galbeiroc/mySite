@@ -1,11 +1,11 @@
-import React, { useState } from "react"
+import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Posts from "./posts"
 import Card from "./card"
 
 export default () => {
-  const [start, setStart] = useState(true)
-  const [enroll, setEnroll] = useState(false)
+  const start= 'start'
+  const enroll = 'enroll'
 
   const data = useStaticQuery(graphql`
     {

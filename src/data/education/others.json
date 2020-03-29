@@ -1,0 +1,17 @@
+{
+    "slug": "others",
+    "title": "Otros logros académicos",
+    "description": "Formación especializacion, talleres, diplomados e idiomas en los que participé.",
+    "items": [
+        {
+            "name": "Sena",
+            "degree": "Seguridad en Bases de Datos",
+            "score": "4.0"
+        },
+        {
+            "name": "Smart",
+            "degree": "Inglés Conversacional C1",
+            "score": "4.4"
+        }
+    ]
+}

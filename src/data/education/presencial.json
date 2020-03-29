@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Académica",
+    "description": "Fromación académica, grados de estudios e instituciones a las que asistí.",
+    "items": [
+        {
+            "name": "Corporación Universitaria Americana",
+            "degree": "Ing. de Sistemas",
+            "score": "4.5"
+        },
+        {
+            "name": "Centro Inca",
+            "degree": "Técnico en Sistemas",
+            "score": "4.2"
+        }
+    ]
+}
